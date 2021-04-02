@@ -2,6 +2,7 @@
 layout: post
 title: "Python Algorithm"
 subtitle: String Manipulation
+description: Python algorithm study, String Manipulation
 tags: [TAVE, TAVE Research, Algorithm, Python]
 author: marshmello
 comments: True
