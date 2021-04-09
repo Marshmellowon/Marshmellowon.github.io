@@ -20,7 +20,7 @@ use_math: true
 
   ![/assets/img/posts/GraduationPaper/vae/generator.png](/assets/img/posts/GraduationPaper/vae/generator.png)
 
-> z : latent variable
+> z : latent variable  
 > x : target data
 
 - **z~p(z) : random variable**
