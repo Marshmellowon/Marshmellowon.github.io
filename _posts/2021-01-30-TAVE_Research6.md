@@ -1,16 +1,10 @@
 ---
-layout: post
-title: "Neural Network VI"
-subtitle: convolutional network
-tags: [TAVE, TAVE Research, Deep Learning]
-author: marshmello
-comments: True
+title: Neural Network VI
 date: 2021-01-30
-lastmod: 2021-01-30 11:52:00
-sitemap:
-  changefreq: daily
-  priority: 1.0
-use_math: true
+categories: [Deep Learning, TAVE, TAVE Research]
+tags: [Deep Learning]
+math: true
+mermaid: true
 ---
 
 # Convolutional Neural Network

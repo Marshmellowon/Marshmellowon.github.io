@@ -1,16 +1,10 @@
 ---
-layout: post
-title: "Variational Auto Encoder(VAE)"
-subtitle: variational auto encoder
-tags: [Deep Learning, paper]
-author: marshmello
-comments: True
+title: Variational Auto Encoder(VAE)
 date: 2021-01-17
-lastmod: 2021-01-17 19:28:00
-sitemap:
-  changefreq: daily
-  priority: 1.0
-use_math: true
+categories: [Deep Learning, paper]
+tags: [Deep Learning]
+math: true
+mermaid: true
 ---
 
 # Variational Auto Encoder

@@ -1,16 +1,10 @@
 ---
-layout: post
-title: "Neural Network II"
-subtitle: derivative, gradient descent, softmax
-tags: [TAVE, TAVE Research, Deep Learning]
-author: marshmello
-comments: True
+title: Neural Network II
 date: 2021-01-02
-lastmod: 2021-01-02 15:15:00
-sitemap:
-  changefreq: daily
-  priority: 1.0
-use_math: true
+categories: [Deep Learning, TAVE, TAVE Research]
+tags: [Deep Learning]
+math: true
+mermaid: true
 ---
 
 ## Derivative

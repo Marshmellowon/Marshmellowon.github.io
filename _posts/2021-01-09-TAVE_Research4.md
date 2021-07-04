@@ -1,16 +1,10 @@
 ---
-layout: post
-title: "Neural Network IV"
-subtitle: forward propagation, backpropagation
-tags: [TAVE, TAVE Research, Deep Learning]
-author: marshmello
-comments: True
+title: Neural Network IV
 date: 2021-01-09
-lastmod: 2021-01-11 21:34:00
-sitemap:
-  changefreq: daily
-  priority: 1.0
-use_math: true
+categories: [Deep Learning, TAVE, TAVE Research]
+tags: [Deep Learning]
+math: true
+mermaid: true
 ---
 
 ## Chain Rule

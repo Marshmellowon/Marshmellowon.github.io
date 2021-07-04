@@ -1,16 +1,10 @@
 ---
-layout: post
-title: "Greedy Algorithm"
-subtitle: algorithm class
-tags: [Algorithm]
-author: marshmello
-comments: True
+title: Greedy Algorithm
 date: 2020-04-14
-lastmod: 2021-01-15 21:52:00
-sitemap:
-  changefreq: daily
-  priority: 1.0
-use_math: false
+categories: [Algorithm]
+tags: [Algorithm]
+math: true
+mermaid: true
 ---
 
 ## 요약

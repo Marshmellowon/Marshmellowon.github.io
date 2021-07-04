@@ -1,16 +1,10 @@
 ---
-layout: post
-title: "Deep Learning for Scratch(1)"
-subtitle: Deep Learning Study
-tags: [AI, Python]
-author: marshmello
-comments: True
+title: Deep Learning for Scratch(1)
 date: 2020-07-05
-lastmod: 2021-01-15 21:52:00
-sitemap:
-  changefreq: daily
-  priority: 1.0
-use_math: false
+categories: [Deep learning]
+tags: [Deep learning]
+math: true
+mermaid: true
 ---
 
 <sub>책 정보: [밑바닥부터 시작하는 딥러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198)</sub>

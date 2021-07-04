@@ -1,16 +1,10 @@
 ---
-layout: post
-title: "Neural Network V"
-subtitle: optimizer, batch normalization, hyperparameter
-tags: [TAVE, TAVE Research, Deep Learning]
-author: marshmello
-comments: True
+title: Neural Network V
 date: 2021-01-13
-lastmod: 2021-01-14 01:20:00
-sitemap:
-  changefreq: daily
-  priority: 1.0
-use_math: true
+categories: [Deep Learning, TAVE, TAVE Research]
+tags: [Deep Learning]
+math: true
+mermaid: true
 ---
 
 ## Update Parameter

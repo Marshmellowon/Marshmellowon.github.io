@@ -1,0 +1,8 @@
+{% for ex in site.experience %}
+<sub>{{ ex.start }} ~ {{ ex.end }}</sub>
+<h3 class="experience_name">{{ ex.name }}</h3>
+{% if ex.url %}
+<p class="experience_site"><a href="{{ ex.url }}">{{ ex.urlName }}</a></p>
+{% endif %}
+<hr>
+{% endfor %}

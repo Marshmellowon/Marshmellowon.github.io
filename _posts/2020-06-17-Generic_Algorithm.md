@@ -1,16 +1,10 @@
 ---
-layout: post
-title: "Generic Algorithm"
-subtitle: Tesla Stock Price
-tags: [Python, Algorithm]
-author: marshmello
-comments: True
+title: Generic Algorithm
 date: 2020-06-17
-lastmod: 2021-01-15 21:52:00
-sitemap:
-  changefreq: daily
-  priority: 1.0
-use_math: false
+categories: [Algorithm]
+tags: [Algorithm]
+math: true
+mermaid: true
 ---
 
 ## 유전 알고리즘이란?

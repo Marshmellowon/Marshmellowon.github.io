@@ -1,17 +1,10 @@
 ---
-layout: post
-title: "Python Algorithm"
-subtitle: String Manipulation
-description: Python algorithm study, String Manipulation
-tags: [TAVE, TAVE Research, Algorithm, Python]
-author: marshmello
-comments: True
+title: Python Algorithm
 date: 2021-03-31
-lastmod: 2021-03-31 15:24:00
-sitemap:
-  changefreq: daily
-  priority: 1.0
-use_math: true
+categories: [TAVE, TAVE Research, Algorithm]
+tags: [Algorithm]
+math: true
+mermaid: true
 ---
 
 > <sub>이 포스트는 파이썬 알고리즘 인터뷰를 공부하여 정리한 것입니다.</sub>

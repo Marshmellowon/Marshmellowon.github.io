@@ -1,16 +1,10 @@
 ---
-layout: post
-title: "Data Science.Data & AI 시작하기(1)"
-subtitle: Hanium
-tags: [AI, Hanium, Blended_Learning]
-author: marshmello
-comments: True
+title: Data Science.Data & AI 시작하기(1)
 date: 2020-06-30
-lastmod: 2021-01-15 21:52:00
-sitemap:
-  changefreq: daily
-  priority: 1.0
-use_math: false
+categories: [AI, Hanium]
+tags: [Hanium]
+math: true
+mermaid: true
 ---
 
 ## 1. Artificial Intelligence(인공지능)

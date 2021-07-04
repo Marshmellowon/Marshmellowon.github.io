@@ -1,16 +1,10 @@
 ---
-layout: post
-title: "Reinforcement Learning"
-subtitle: TAVE 6TH Reinforcement Learning Study
-tags: [TAVE, Reinforcement Learning]
-author: marshmello
-comments: True
+title: Reinforcement Learning
 date: 2020-08-19
-lastmod: 2021-01-15 21:52:00
-sitemap:
-  changefreq: daily
-  priority: 1.0
-use_math: false
+categories: [Reinforcement Learning, TAVE]
+tags: [Reinforcement Learning]
+math: true
+mermaid: true
 ---
 
 # 강화학습이란?
