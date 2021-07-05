@@ -64,7 +64,7 @@ bash tools/init.sh
 
 ## 배포하기
 
-tools 폴더에 `[deploy.sh](http://deploy.sh)` 파일이 있어 실행해 보았지만 직접 실행 시키는 것이 아니었다. 그냥 repository에 push만 해주면 알아서 해준다.
+tools 폴더에 `deploy.sh` 파일이 있어 실행해 보았지만 직접 실행 시키는 것이 아니었다. 그냥 repository에 push만 해주면 알아서 해준다.
 
 ![/assets/img/posts/startblog/2021_07_05_20_33_24.png](/assets/img/posts/startblog/2021_07_05_20_33_24.png)
 
