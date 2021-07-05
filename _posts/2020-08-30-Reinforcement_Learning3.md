@@ -1,8 +1,8 @@
 ---
 title: Deep Learning With Pytorch
 date: 2020-08-31
-categories: [Deep learning, Pytorch, TAVE]
-tags: [Deep learning]
+categories: [DeepLearning, Pytorch, TAVE]
+tags: [DeepLearning]
 math: true
 mermaid: true
 ---

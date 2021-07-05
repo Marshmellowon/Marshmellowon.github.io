@@ -1,8 +1,8 @@
 ---
 title: Variational Auto Encoder(VAE)
 date: 2021-01-17
-categories: [Deep Learning, paper]
-tags: [Deep Learning]
+categories: [DeepLearning, paper]
+tags: [DeepLearning]
 math: true
 mermaid: true
 ---

@@ -2,7 +2,7 @@
 title: Pytorch basics
 date: 2020-08-26
 categories: [Pytorch, TAVE]
-tags: [Deep learning]
+tags: [DeepLearning]
 math: true
 mermaid: true
 ---

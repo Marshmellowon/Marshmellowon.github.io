@@ -1,8 +1,8 @@
 ---
 title: Deep Learning for Scratch(2)
 date: 2020-07-08
-categories: [Deep learning]
-tags: [Deep learning]
+categories: [DeepLearning]
+tags: [DeepLearning]
 math: true
 mermaid: true
 ---

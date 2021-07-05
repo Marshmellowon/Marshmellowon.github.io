@@ -1,8 +1,8 @@
 ---
 title: About CNN, RNN
 date: 2020-09-04
-categories: [Deep learning, TAVE]
-tags: [Deep learning]
+categories: [DeepLearning, TAVE]
+tags: [DeepLearning]
 math: true
 mermaid: true
 ---

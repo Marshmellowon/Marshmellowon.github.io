@@ -1,16 +1,10 @@
 ---
-layout: post
-title: "Neural Network I"
-subtitle: perceptron, activation function
-tags: [Deep Learning, TAVE, TAVE Research]
-author: marshmello
-comments: True
+title: Neural Network I
 date: 2020-12-30
-lastmod: 2020-12-30 12:30:00
-sitemap:
-  changefreq: daily
-  priority: 1.0
+categories: [TAVE, TAVE Research]
+tags: [DeepLearning]
 math: true
+mermaid: true
 ---
 
 ## Perceptron

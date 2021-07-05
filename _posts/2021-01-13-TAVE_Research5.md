@@ -1,8 +1,8 @@
 ---
 title: Neural Network V
 date: 2021-01-13
-categories: [Deep Learning, TAVE, TAVE Research]
-tags: [Deep Learning]
+categories: [DeepLearning, TAVE, TAVE Research]
+tags: [DeepLearning]
 math: true
 mermaid: true
 ---

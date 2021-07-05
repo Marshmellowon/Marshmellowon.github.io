@@ -1,8 +1,8 @@
 ---
 title: Neural Network II
 date: 2021-01-02
-categories: [Deep Learning, TAVE, TAVE Research]
-tags: [Deep Learning]
+categories: [DeepLearning, TAVE, TAVE Research]
+tags: [DeepLearning]
 math: true
 mermaid: true
 ---
