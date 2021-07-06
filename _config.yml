@@ -162,13 +162,13 @@ jekyll-archives:
     category: /categories/:name/
 
 experience:
-  - name: TAVE 6TH
+  - name: TAVE 6TH Member
     start: 2020-08-01
     end: 2020-11-28
     url: https://blog.naver.com/t-ave
     urlName: TAVE blog
 
-  - name: TAVE Research
+  - name: TAVE Research Member
     start: 2020-12-20
     end: now
     url: https://taveresearch.github.io/
@@ -176,13 +176,13 @@ experience:
 
   - name: TAVE 7TH Management Team
     start: 2021-02-06
-    end: now
+    end: 2021-07-17
     url: https://blog.naver.com/t-ave
     urlName: TAVE blog
 
   - name: 2021 금융보안원 대학생 금융보안캠프
     start: 2021-05-24
-    end:
+    end: 2021-07-09
     url:
 
 project:
@@ -194,3 +194,12 @@ project:
     urlName: Youtube
     file: /files/paper_submited.pdf
     fileName: paper
+
+  - name: 2021 금융보안원 대학생 금융보안캠프
+    start: 2021-02-06
+    end: 2021-07-17
+    award:
+    url:
+    urlName:
+    file:
+    fileName:
