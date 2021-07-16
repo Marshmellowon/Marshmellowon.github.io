@@ -199,7 +199,8 @@ project:
     start: 2021-02-06
     end: 2021-07-17
     award:
-    url:
-    urlName:
+    awardName:
+    url: https://www.dailysecu.com/news/articleView.html?idxno=126492
+    urlName: news
     file:
     fileName:
