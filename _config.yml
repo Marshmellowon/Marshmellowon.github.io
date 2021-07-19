@@ -162,7 +162,7 @@ jekyll-archives:
     category: /categories/:name/
 
 experience:
-  - name: TAVE 6TH Member
+  - name: TAVE 6th Member
     start: 2020-08-01
     end: 2020-11-28
     url: https://blog.naver.com/t-ave
@@ -174,7 +174,7 @@ experience:
     url: https://taveresearch.github.io/
     urlName: TAVE Research blog
 
-  - name: TAVE 7TH Management Team
+  - name: TAVE 7th Management Team
     start: 2021-02-06
     end: 2021-07-17
     url: https://blog.naver.com/t-ave
@@ -183,7 +183,14 @@ experience:
   - name: 2021 금융보안원 대학생 금융보안캠프
     start: 2021-05-24
     end: 2021-07-09
+    url: /files/FSIpresentation.pdf
+    urlName: ppt
+
+  - name: TAVE 8th Management Team
+    start: 2021-07-20
+    end:
     url:
+    urlName:
 
 project:
   - name: 2020 국어정보처리 경진대회
@@ -191,16 +198,16 @@ project:
     end: 2020-10-08
     award:
     url: https://www.youtube.com/watch?v=gIhNBtruUYM&t=13s
-    urlName: Youtube
+    urlName: youtube
     file: /files/paper_submited.pdf
     fileName: paper
 
   - name: 2021 금융보안원 대학생 금융보안캠프
     start: 2021-02-06
     end: 2021-07-17
-    award:
-    awardName:
+    award: /files/FSIprize.pdf
+    awardName: prize
     url: https://www.dailysecu.com/news/articleView.html?idxno=126492
     urlName: news
-    file:
-    fileName:
+    file: /files/FSIcertificate.pdf
+    fileName: certificate
