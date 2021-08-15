@@ -123,14 +123,6 @@ layout: default
     {% include post-nav.html %}
 
     {% if site.disqus.comments and page.comments %}
-      <script src="https://utteranc.es/client.js"
-        repo="s-wlii/blog-comments"
-        issue-term="pathname"
-        label="comment"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async>
-    </script>
       {% include disqus.html %}
     {% endif %}
 
